@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Daniel Lerch
-title: Introduccin al Deep Learning con Keras
+title: Introducción al Deep Learning con Keras
 published: true
 ---
 
